@@ -1,0 +1,30 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiangwenzhe/algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiangwenzhe/algorithm/issues"
+  },
+  "homepage": "https://github.com/Jiangwenzhe/algorithm#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^26.0.1",
+    "babel-preset-env": "^1.7.0",
+    "regenerator-runtime": "^0.13.5"
+  }
+}
