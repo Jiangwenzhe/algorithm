@@ -1,4 +1,4 @@
 const selectionSort = (arr) => {
-  return arr;
+  return arr
 };
 
